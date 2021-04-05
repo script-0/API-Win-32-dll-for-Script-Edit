@@ -1,0 +1,20 @@
+EXPORTS
+    DllMain@12 @1
+    GetDroppedFilesPaths @2
+    String_to_Int @3
+    backup_file @4
+    fileExist @5
+    font_copy @6
+    hide_state_bar @7
+    initialise @8
+    last_session @9
+    load_initial_info @10
+    manage_error @11
+    parse @12
+    read_drop_file @13
+    read_error @14
+    report_error @15
+    set_bkcolor @16
+    show_state_bar @17
+    test_filename @18
+    update_recent_file @19

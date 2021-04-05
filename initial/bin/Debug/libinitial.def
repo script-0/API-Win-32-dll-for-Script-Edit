@@ -1,0 +1,23 @@
+EXPORTS
+    DllMain@12 @1
+    GetDroppedFilesPaths @2
+    SE_ReadFile @3
+    String_to_Int @4
+    backup_file @5
+    fileExist @6
+    font_copy @7
+    hide_state_bar @8
+    initialise @9
+    last_session @10
+    load_initial_info @11
+    manage_error @12
+    parse @13
+    read_drop_file @14
+    read_error @15
+    remove_from_recent_file @16
+    report_error @17
+    set_bkcolor @18
+    showMessageError @19
+    show_state_bar @20
+    test_filename @21
+    update_recent_file @22

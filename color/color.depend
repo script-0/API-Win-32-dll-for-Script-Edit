@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1566399975 source:e:\academie\personal_documents\codes\dll\color\main.cpp
+	"color.h"
+
+1562592026 e:\academie\personal_documents\codes\dll\color\main.h
+
+1562586276 e:\academie\personal_documents\codes\dll\color\resource.h
+
+1568809644 e:\academie\personal_documents\codes\dll\color\color.h
+	<windows.h>
+

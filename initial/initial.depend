@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1581149455 source:e:\academie\personal_documents\codes\dll\initial\main.cpp
+	<windows.h>
+	<stdio.h>
+	<commctrl.h>
+	<math.h>
+	<commdlg.h>
+	"initial.h"
+
+1579365270 e:\academie\personal_documents\codes\dll\initial\initial.h
+	"resource.h"
+	"coordonnees.h"
+
+1562968666 e:\academie\personal_documents\codes\dll\initial\resource.h
+
+1560249428 e:\academie\personal_documents\codes\dll\initial\coordonnees.h
+
